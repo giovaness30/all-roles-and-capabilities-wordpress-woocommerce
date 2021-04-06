@@ -1,0 +1,1 @@
+# all-roles-and-capabilities-wordpress-woocommerce
