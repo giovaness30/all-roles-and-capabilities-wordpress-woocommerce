@@ -104,12 +104,11 @@ level_10
 					
 ->Other Capabilities
 
-manage_woocommerce,
-
-view_woocommerce_reports,				
-edit_product				
-read_product				
-delete_product				
+manage_woocommerce
+view_woocommerce_reports
+edit_product
+read_product
+delete_product
 edit_products				
 edit_others_products				
 publish_products				
